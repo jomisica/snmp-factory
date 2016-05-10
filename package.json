@@ -1,0 +1,30 @@
+{
+  "name": "snmp-factory",
+  "version": "0.0.1",
+  "description": "A very simple snmp connection pool manager",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jomisica/snmpFactory.git"
+  },
+  "keywords": [
+    "snmp",
+    "node",
+    "connection",
+    "pool"
+  ],
+  "dependencies": {
+    "es6-promise": "^3.0.2",
+    "underscore": "^1.8.3"
+  },
+  "author": "José Miguel Silva Caldeira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jomisica/snmpFactory/issues"
+  },
+  "homepage": "https://github.com/jomisica/snmpFactory#readme",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
