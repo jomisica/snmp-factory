@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jomisica/snmpFactory.git"
+    "url": "git://github.com/jomisica/snmp-factory.git"
   },
   "keywords": [
     "snmp",
@@ -20,9 +20,9 @@
   "author": "José Miguel Silva Caldeira",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jomisica/snmpFactory/issues"
+    "url": "https://github.com/jomisica/snmp-factory/issues"
   },
-  "homepage": "https://github.com/jomisica/snmpFactory#readme",
+  "homepage": "https://github.com/jomisica/snmp-factory#readme",
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
